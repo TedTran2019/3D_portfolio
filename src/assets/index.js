@@ -32,6 +32,8 @@ import tripguide from "./tripguide.png";
 
 // Personal
 import ttLogo from "./tt_logo.svg";
+import boringLogo from "./boring_logo.svg";
+import cryingLogo from "./crying_logo.svg"
 
 export {
   logo,
@@ -63,4 +65,6 @@ export {
   jobit,
   tripguide,
   ttLogo,
+  boringLogo,
+  cryingLogo,
 };
